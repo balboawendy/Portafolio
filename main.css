@@ -1,0 +1,192 @@
+li {
+text-decoration: none;
+}
+body {
+	min-height: 100%;
+	padding-top: 50px;
+}
+.collapse nav li a {
+  padding: ; 
+}
+.descripcion {
+	padding: 21% 19%;
+
+}
+.my {
+	text-align: center;
+} 
+.foto {
+  position: relative;
+  height: 290px;
+  width: 290px;
+  margin: 50px auto;
+}
+ .foto img {
+ 	width: 100%;
+ 	/*margin-top: 15%;*/
+ 	position: absolute;
+    left: 0;
+    transition: opacity 1.5s ease-in-out;
+  }
+  .foto img.top:hover {
+  opacity: 0;
+}
+ #mensaje {
+    background-image: url("../portfolio/images/codigo.jpg");
+    background-attachment: fixed;
+    width: 100%;
+    height: 200px;
+    background-position: center top;
+    background-size: cover;
+ }
+ .msj {
+ 	padding-top: 5%;
+ }
+ .msj h3 {
+ 	color: white;
+    font-family:'dancing Sript'
+ }
+  #portafolio {
+  	padding: 7% 10% 15%;
+  	}
+#portafolio .resumen p {
+ padding: 1% 33%;
+ padding-top: 2%;
+}
+#portafolio .resumen .row {
+	padding-top: 5%;
+}
+
+  #portafolio .resumen .row li .col-md-6 {
+  	padding: 8%;
+  }
+  #portafolio .resumen .row li .col-md-6 .imagen {
+  	position: relative;
+  	cursor:pointer;
+  }
+  #portafolio .resumen .row li .col-md-6 .imagen img {
+  	width: 100%;
+    box-shadow: 4px 4px 5px 0px rgba(50, 50, 50, 0.2);
+  }
+  img {
+  	width: 100%;
+  }
+ .text-center {
+ 	text-align: center;
+ }
+ .habilidades img {
+ 	width: 
+ }
+ .carousel-example{
+ 	height: 50%;
+ }
+ #habilidades {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+}
+#habilidades .hab p {
+	margin:  9% 10%;
+}
+#habilidades .row .mac img {
+    width: 62%;
+    margin-top: 3%;
+}
+ #contacto {
+    width: 100%;
+    height: 500px;
+    background-image: url("../portfolio/images/banner_pro2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 8%;
+
+}
+.imagen {
+    margin: 2%;
+}
+.box {
+	background: rgba(0,0,0,0.3);
+	height: 500px;
+    
+}
+.navbar-nav {
+    text-align: center;
+    margin: 0 auto;
+    float: none;
+    padding: 1%;
+}
+
+.navbar-nav li {
+    float: none;
+    display: inline-block;
+}
+.nav li {
+    list-style: none;
+    font-family: "JosefinSlab-Regular";
+    font-size: 21px;
+    padding: 0% 2%;
+}
+.nav li a {
+    padding: 0%;
+    }
+ em {
+    font-style: italic;
+}
+li.col-md-4 {
+    list-style: none;
+}
+#contacto {
+    width: 100%;
+    background-image: url("../portfolio/images/contacto.jpg");
+    background-size: cover;
+    background-position: center 175px;
+    position: relative;
+    background-attachment: fixed;
+}
+#contacto .overlay-banner3 {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    position: absolute;
+}
+.text-center {
+  text-align: center;
+}
+#contacto .texto ul .logo {
+    width: 150px;
+    border-radius: 100%;
+    padding: 0;
+    margin: 2%;
+    list-style: none;
+    float: none;
+    display: inline-block;
+  }
+  #contacto .texto h3 {
+   color:white;
+   font-family: ;
+   margin-top:3%;
+  }
+  #contacto .texto p {
+   color:white;
+   font-size:17px;
+   font-family: 'Poiret One', cursive;
+   margin-top:3%;
+  }
+  #contacto .texto {
+    position: relative;
+    padding: 5% 8%;
+    width: 100%;
+  }
+/*.text-contacto {
+	margin: 3% 4%;
+}
+.text {
+	text-align: center;
+   }
+.text-contacto p {
+	padding: 0 25px;
+    color: grey;
+    text-align: justify;
+}
+    */
